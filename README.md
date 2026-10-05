@@ -13,7 +13,6 @@
 **Required Invitation section** (nested under `/required-invitation/`, with its own secondary nav bar)
 - `required-invitation/index.html` — Overview
 - `required-invitation/pedigree.html`
-- `required-invitation/performance.html`
 - `required-invitation/progeny.html`
 - `required-invitation/incentives.html`
 - `required-invitation/press.html`
